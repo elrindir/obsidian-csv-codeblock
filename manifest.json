@@ -4,8 +4,7 @@
 	"version": "1.0.0",
 	"minAppVersion": "0.15.0",
 	"description": "This is a plugin for Obsidian. This plugin renders codeblocks with csv format.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"fundingUrl": "https://obsidian.md/pricing",
+	"author": "elrindir",
+	"authorUrl": "https://github.com/elrindir/",
 	"isDesktopOnly": false
 }

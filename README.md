@@ -16,7 +16,7 @@ Pos, Date, Name, Price
 
 `````
 
-![A preview of the rendered table](rendered_table.png)
+![A preview of the rendered table](https://github.com/elrindir/obsidian-csv-codeblock/blob/master/rendered_table.png)
 
 
 # Stolen Code

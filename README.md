@@ -14,7 +14,7 @@ Pos, Date, Name, Price
 2, 2023-02-29, Shovel, 1.25$
 ```
 
-````
+`````
 
 ![A preview of the rendered table](rendered_table.png)
 

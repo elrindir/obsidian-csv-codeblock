@@ -6,10 +6,14 @@ This is a plugin for Obsidian (https://obsidian.md). This plugin renders codeblo
 
 Just put the `csv` identifyer in a codeblock:
 
-`````csv
+`````
+
+```csv
 Pos, Date, Name, Price
 1, 2023-09-28, Spices, 150$
 2, 2023-02-29, Shovel, 1.25$
+```
+
 ````
 
 ![A preview of the rendered table](rendered_table.png)
